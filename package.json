@@ -1,0 +1,34 @@
+{
+  "name": "chai-aur-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RahulPandey100-coder/chai-aur-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RahulPandey100-coder/chai-aur-react/issues"
+  },
+  "homepage": "https://github.com/RahulPandey100-coder/chai-aur-react#readme",
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.13",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.13",
+    "vite": "^7.1.3"
+  }
+}
